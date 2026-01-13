@@ -1,8 +1,8 @@
-KeyBindig
+## Key Bindings
 
-W - ShiftUp Gear
-S - ShiftDown Gear
-Q - Cluch
-T- Toggle ON/OFF
-E- Brake
-Space- Accelerator
+W       – Shift Up Gear  
+S       – Shift Down Gear  
+Q       – Clutch  
+T       – Toggle On / Off  
+E       – Brake  
+Space   – Accelerator
